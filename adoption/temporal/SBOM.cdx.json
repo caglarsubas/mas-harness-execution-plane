@@ -1,0 +1,246 @@
+{
+ "bomFormat": "CycloneDX",
+ "components": [
+  {
+   "bom-ref": "6260f110b6853d2d7f8daa31793d1fac44096077e3b058dc3482de6ac50bc543",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "6260f110b6853d2d7f8daa31793d1fac44096077e3b058dc3482de6ac50bc543"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "MIT"
+    }
+   ],
+   "name": "temporal_1.32.2_linux_amd64.tar.gz",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "92064830"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/6260f110b6853d2d7f8daa31793d1fac44096077e3b058dc3482de6ac50bc543"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-11-02T18:38:48Z"
+    }
+   ],
+   "purl": "pkg:github/temporalio/temporal@v1.32.2",
+   "type": "application",
+   "version": "1.32.2"
+  },
+  {
+   "bom-ref": "335d37c48a9421d0b5580633bb8ca9028688a0c98f91330db7126ba672fa6366",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "335d37c48a9421d0b5580633bb8ca9028688a0c98f91330db7126ba672fa6366"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "MIT"
+    }
+   ],
+   "name": "checksums.txt",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "606"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/335d37c48a9421d0b5580633bb8ca9028688a0c98f91330db7126ba672fa6366"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-11-02T18:38:48Z"
+    }
+   ],
+   "purl": "pkg:github/temporalio/temporal@v1.32.2",
+   "type": "application",
+   "version": "1.32.2"
+  },
+  {
+   "bom-ref": "ed457244ed5185a3e4a2ecccd40bff1d11583380b9b80ecf314589463540f3f8",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "ed457244ed5185a3e4a2ecccd40bff1d11583380b9b80ecf314589463540f3f8"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "MIT"
+    }
+   ],
+   "name": "temporalio-1.36.0-cp311-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "14524738"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/ed457244ed5185a3e4a2ecccd40bff1d11583380b9b80ecf314589463540f3f8"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-11-11T01:08:28.079481Z"
+    }
+   ],
+   "purl": "pkg:pypi/temporalio@1.36.0",
+   "type": "library",
+   "version": "1.36.0"
+  },
+  {
+   "bom-ref": "5d6e856972be812573948df02da2257344c407a8eaa99977b5d38be54448305a",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "5d6e856972be812573948df02da2257344c407a8eaa99977b5d38be54448305a"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "MIT"
+    }
+   ],
+   "name": "nexus_rpc-1.5.0-py3-none-any.whl",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "30406"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/5d6e856972be812573948df02da2257344c407a8eaa99977b5d38be54448305a"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-10-28T17:12:20.245235Z"
+    }
+   ],
+   "purl": "pkg:pypi/nexus-rpc@1.5.0",
+   "type": "library",
+   "version": "1.5.0"
+  },
+  {
+   "bom-ref": "89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "BSD-3-Clause"
+    }
+   ],
+   "name": "protobuf-7.36.2-cp310-abi3-manylinux2014_x86_64.whl",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "343223"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-09-17T20:07:54.931655Z"
+    }
+   ],
+   "purl": "pkg:pypi/protobuf@7.36.2",
+   "type": "library",
+   "version": "7.36.2"
+  },
+  {
+   "bom-ref": "5155e48569e0dabff303fdf578db96cd31ea9a4a63b18018a4ceac6b0ae17462",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "5155e48569e0dabff303fdf578db96cd31ea9a4a63b18018a4ceac6b0ae17462"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "Apache-2.0"
+    }
+   ],
+   "name": "types_protobuf-7.35.1.20260906-py3-none-any.whl",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "86419"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/5155e48569e0dabff303fdf578db96cd31ea9a4a63b18018a4ceac6b0ae17462"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-09-06T06:35:27.247013Z"
+    }
+   ],
+   "purl": "pkg:pypi/types-protobuf@7.35.1.20260906",
+   "type": "library",
+   "version": "7.35.1.20260906"
+  },
+  {
+   "bom-ref": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8",
+   "hashes": [
+    {
+     "alg": "SHA-256",
+     "content": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8"
+    }
+   ],
+   "licenses": [
+    {
+     "expression": "PSF-2.0"
+    }
+   ],
+   "name": "typing_extensions-4.16.0-py3-none-any.whl",
+   "properties": [
+    {
+     "name": "planeon:size",
+     "value": "45571"
+    },
+    {
+     "name": "planeon:mirrorObject",
+     "value": "sha256/481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8"
+    },
+    {
+     "name": "planeon:uploadTime",
+     "value": "2026-07-02T08:40:04.659120Z"
+    }
+   ],
+   "purl": "pkg:pypi/typing-extensions@4.16.0",
+   "type": "library",
+   "version": "4.16.0"
+  }
+ ],
+ "metadata": {
+  "component": {
+   "name": "planeon.orchestrator.temporal",
+   "type": "application",
+   "version": "1.32.2"
+  },
+  "properties": [
+   {
+    "name": "planeon:platform",
+    "value": "linux/amd64"
+   }
+  ],
+  "timestamp": "2026-11-20T16:01:51Z"
+ },
+ "serialNumber": "urn:uuid:09330e00-7bdc-5904-8814-e9d9b1734cd9",
+ "specVersion": "1.6",
+ "version": 1
+}

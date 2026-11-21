@@ -1,0 +1,251 @@
+{
+ "closure": [
+  {
+   "digestSource": "release-api",
+   "fileName": "temporal_1.32.2_linux_amd64.tar.gz",
+   "generation": "1795190516033715",
+   "kind": "release-asset",
+   "licence": {
+    "basis": "derived: the LICENSE text at tag v1.32.2 (text from R10 mck7c object_6aab9afd99ceb1dc.txt, sha256 equal to the pin; object verified by R10 mck7b mirror_check.json 08f68243, manifest 44df609f, object record e8da948e) equals the MIT licence body exactly after SPDX-style normalisation (copyright lines removed, case, quotes and whitespace folded; match_licence.py ade8f97d, its reference MIT body typed, not fetched; checked by reviewer against the SPDX MIT text); copyright holders Temporal Technologies Inc. (2025) and Uber Technologies, Inc. (2020)",
+    "expression": "MIT",
+    "files": [
+     {
+      "member": "LICENSE at tag v1.32.2 (one named read)",
+      "sha256": "6aab9afd99ceb1dcaf6a0d91386b46baef9bce17ae4006044e0f231e31430b69",
+      "size": 1152
+     }
+    ],
+    "notInArchive": true
+   },
+   "mirrorObject": "sha256/6260f110b6853d2d7f8daa31793d1fac44096077e3b058dc3482de6ac50bc543",
+   "purl": "pkg:github/temporalio/temporal@v1.32.2",
+   "sha256": "6260f110b6853d2d7f8daa31793d1fac44096077e3b058dc3482de6ac50bc543",
+   "size": 92064830,
+   "uploadTime": "2026-11-02T18:38:48Z",
+   "version": "1.32.2"
+  },
+  {
+   "digestSource": "release-api",
+   "fileName": "checksums.txt",
+   "generation": "1795190516152551",
+   "kind": "release-asset",
+   "licence": {
+    "basis": "release asset of the same server release; derived: the LICENSE text at tag v1.32.2 (text from R10 mck7c object_6aab9afd99ceb1dc.txt, sha256 equal to the pin; object verified by R10 mck7b mirror_check.json 08f68243, manifest 44df609f, object record e8da948e) equals the MIT licence body exactly after SPDX-style normalisation (copyright lines removed, case, quotes and whitespace folded; match_licence.py ade8f97d, its reference MIT body typed, not fetched; checked by reviewer against the SPDX MIT text); copyright holders Temporal Technologies Inc. (2025) and Uber Technologies, Inc. (2020)",
+    "expression": "MIT",
+    "files": [
+     {
+      "member": "LICENSE at tag v1.32.2 (one named read)",
+      "sha256": "6aab9afd99ceb1dcaf6a0d91386b46baef9bce17ae4006044e0f231e31430b69",
+      "size": 1152
+     }
+    ],
+    "notInArchive": true
+   },
+   "mirrorObject": "sha256/335d37c48a9421d0b5580633bb8ca9028688a0c98f91330db7126ba672fa6366",
+   "purl": "pkg:github/temporalio/temporal@v1.32.2",
+   "sha256": "335d37c48a9421d0b5580633bb8ca9028688a0c98f91330db7126ba672fa6366",
+   "size": 606,
+   "uploadTime": "2026-11-02T18:38:48Z",
+   "version": "1.32.2"
+  },
+  {
+   "digestSource": "pypi",
+   "fileName": "temporalio-1.36.0-cp311-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+   "generation": "1795190516488416",
+   "kind": "wheel",
+   "licence": {
+    "basis": "wheel METADATA License-Expression",
+    "expression": "MIT",
+    "files": [
+     {
+      "member": "LICENSE",
+      "sha256": "d7706f28d144dabf07e4946553a4d117d1dab5cda6bf34a602959b4a2fa86b38",
+      "size": 1108
+     },
+     {
+      "member": "temporalio/bridge/sdk-core/LICENSE.txt",
+      "sha256": "cf8fe04521deeb6f99f644570bc8bee71c11dc410dbb72bccfb3a51829860c7b",
+      "size": 1108
+     },
+     {
+      "member": "temporalio/bridge/sdk-core/crates/protos/protos/api_cloud_upstream/LICENSE",
+      "sha256": "aa36e2ca5072852dcd13c9d7c126fde1ceca44e0695df8b6438641a60e12e132",
+      "size": 1109
+     },
+     {
+      "member": "temporalio/bridge/sdk-core/crates/protos/protos/api_upstream/LICENSE",
+      "sha256": "dfab09792f0b0df7b589581f87654f7da8f6c191145c4d3e994f35027a85e193",
+      "size": 1108
+     },
+     {
+      "member": "temporalio-1.36.0.dist-info/licenses/LICENSE",
+      "sha256": "d7706f28d144dabf07e4946553a4d117d1dab5cda6bf34a602959b4a2fa86b38",
+      "size": 1108
+     }
+    ]
+   },
+   "mirrorObject": "sha256/ed457244ed5185a3e4a2ecccd40bff1d11583380b9b80ecf314589463540f3f8",
+   "purl": "pkg:pypi/temporalio@1.36.0",
+   "sha256": "ed457244ed5185a3e4a2ecccd40bff1d11583380b9b80ecf314589463540f3f8",
+   "size": 14524738,
+   "uploadTime": "2026-11-11T01:08:28.079481Z",
+   "version": "1.36.0"
+  },
+  {
+   "digestSource": "pypi",
+   "fileName": "nexus_rpc-1.5.0-py3-none-any.whl",
+   "generation": "1795190516623792",
+   "kind": "wheel",
+   "licence": {
+    "basis": "wheel METADATA License-Expression",
+    "expression": "MIT",
+    "files": [
+     {
+      "member": "nexus_rpc-1.5.0.dist-info/licenses/LICENSE",
+      "sha256": "7903f782a1ff13735788ba9476b3d3976c37a8921c5dd144b6894eb45f2ebf5f",
+      "size": 1102
+     }
+    ]
+   },
+   "mirrorObject": "sha256/5d6e856972be812573948df02da2257344c407a8eaa99977b5d38be54448305a",
+   "purl": "pkg:pypi/nexus-rpc@1.5.0",
+   "sha256": "5d6e856972be812573948df02da2257344c407a8eaa99977b5d38be54448305a",
+   "size": 30406,
+   "uploadTime": "2026-10-28T17:12:20.245235Z",
+   "version": "1.5.0"
+  },
+  {
+   "digestSource": "pypi",
+   "fileName": "protobuf-7.36.2-cp310-abi3-manylinux2014_x86_64.whl",
+   "generation": "1795190516720750",
+   "kind": "wheel",
+   "licence": {
+    "basis": "derived from wheel METADATA License '3-Clause BSD License' and the hashed licence file",
+    "expression": "BSD-3-Clause",
+    "files": [
+     {
+      "member": "protobuf-7.36.2.dist-info/LICENSE",
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+      "size": 1732
+     }
+    ]
+   },
+   "mirrorObject": "sha256/89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2",
+   "purl": "pkg:pypi/protobuf@7.36.2",
+   "sha256": "89f23aa53c24553a2416fd4fd1ec06f74fa42b14b546d8883128813f775bbfd2",
+   "size": 343223,
+   "uploadTime": "2026-09-17T20:07:54.931655Z",
+   "version": "7.36.2"
+  },
+  {
+   "digestSource": "pypi",
+   "fileName": "types_protobuf-7.35.1.20260906-py3-none-any.whl",
+   "generation": "1795190516822933",
+   "kind": "wheel",
+   "licence": {
+    "basis": "wheel METADATA License-Expression",
+    "expression": "Apache-2.0",
+    "files": [
+     {
+      "member": "types_protobuf-7.35.1.20260906.dist-info/licenses/LICENSE",
+      "sha256": "295f8538c94ae5c3043301cf7cff1c852dab6a786a8ddee471e061b40d5ecabe",
+      "size": 12657
+     }
+    ]
+   },
+   "mirrorObject": "sha256/5155e48569e0dabff303fdf578db96cd31ea9a4a63b18018a4ceac6b0ae17462",
+   "purl": "pkg:pypi/types-protobuf@7.35.1.20260906",
+   "sha256": "5155e48569e0dabff303fdf578db96cd31ea9a4a63b18018a4ceac6b0ae17462",
+   "size": 86419,
+   "uploadTime": "2026-09-06T06:35:27.247013Z",
+   "version": "7.35.1.20260906"
+  },
+  {
+   "digestSource": "pypi",
+   "fileName": "typing_extensions-4.16.0-py3-none-any.whl",
+   "generation": "1795190516911892",
+   "kind": "wheel",
+   "licence": {
+    "basis": "wheel METADATA License-Expression",
+    "expression": "PSF-2.0",
+    "files": [
+     {
+      "member": "typing_extensions-4.16.0.dist-info/licenses/LICENSE",
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+      "size": 13936
+     }
+    ]
+   },
+   "mirrorObject": "sha256/481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8",
+   "purl": "pkg:pypi/typing-extensions@4.16.0",
+   "sha256": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8",
+   "size": 45571,
+   "uploadTime": "2026-07-02T08:40:04.659120Z",
+   "version": "4.16.0"
+  }
+ ],
+ "compatibility": {
+  "decision": "owner 2026-11-21, 'Integration test (Recommended)': the test runs against the pinned server on GCP and must pass before selectable can turn true",
+  "sdk": "1.36.0",
+  "server": "1.32.2",
+  "statement": "not stated by the artifacts; proven by EXEC-TEMPORAL-001's integration test"
+ },
+ "dossier": "EXEC-TEMPORAL-PINS-001",
+ "evidenceState": "PACKET_PUBLISHED",
+ "mirror": {
+  "bucket": "harness-onion-artifact-mirror",
+  "manifests": [
+   {
+    "entries": 7,
+    "object": "manifests/EXEC-TEMPORAL-PINS-001/20261120T160151Z-e79679c2.json",
+    "readBack": "R10 mirror-read ok 7/7 (mck5)",
+    "sha256": "3bbc33568812e53818ee065bf58fac2e206d5df420333c3890b863371851d904"
+   },
+   {
+    "entries": 1,
+    "object": "manifests/EXEC-TEMPORAL-PINS-001/20261120T202619Z-2d3dc342.json",
+    "readBack": "R10 mirror-read ok 1/1 (mck5)",
+    "sha256": "44df609f07bd951db5b37e77ce678ba77bdfa871f33c18149114b9327b178fab"
+   }
+  ],
+  "objectPrefix": "sha256/"
+ },
+ "moduleId": "planeon.orchestrator.temporal",
+ "pinnedAt": "2026-11-20T16:01:51Z",
+ "platform": "linux/amd64",
+ "postgresql": "no PostgreSQL server artifact: built-in mode provisions a separate database for Temporal; tenant attachment only on an operator-created schema (owner OQ-4, G4)",
+ "quarantine": {
+  "decisionRef": "OQ-6 (owner 2026-11-20 18:39, '7 days + security exemption (Recommended)'), recorded as a decision in lock 74 or 75",
+  "exemption": {
+   "kind": "SECURITY_UPDATE",
+   "used": false
+  },
+  "minimumDays": 7,
+  "policyItem": "SUPPLY-QUARANTINE-001",
+  "source": "OWNER_DECISION"
+ },
+ "role": "OPTIONAL",
+ "sdk": {
+  "package": "temporalio",
+  "python": "CPython 3.12, manylinux x86_64 (abi3 wheels built for cp311 and cp310, and pure-Python wheels)",
+  "version": "1.36.0"
+ },
+ "selectable": false,
+ "server": {
+  "form": "upstream Linux AMD64 release binary (owner OQ-3; no upstream image)",
+  "licence": {
+   "basis": "derived: the LICENSE text at tag v1.32.2 (text from R10 mck7c object_6aab9afd99ceb1dc.txt, sha256 equal to the pin; object verified by R10 mck7b mirror_check.json 08f68243, manifest 44df609f, object record e8da948e) equals the MIT licence body exactly after SPDX-style normalisation (copyright lines removed, case, quotes and whitespace folded; match_licence.py ade8f97d, its reference MIT body typed, not fetched; checked by reviewer against the SPDX MIT text); copyright holders Temporal Technologies Inc. (2025) and Uber Technologies, Inc. (2020)",
+   "expression": "MIT",
+   "files": [
+    {
+     "member": "LICENSE at tag v1.32.2 (one named read)",
+     "sha256": "6aab9afd99ceb1dcaf6a0d91386b46baef9bce17ae4006044e0f231e31430b69",
+     "size": 1152
+    }
+   ],
+   "notInArchive": true
+  },
+  "schemaToolAsset": null,
+  "version": "1.32.2"
+ }
+}
